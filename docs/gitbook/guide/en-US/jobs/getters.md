@@ -4,7 +4,7 @@ When jobs are added to a queue, they will be in different statuses during their 
 
 
 
-![](../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
 
 #### Job Counts
 
